@@ -6,7 +6,6 @@ Use DJI Osmo 360 `.OSV` files in DaVinci Resolve on an Apple Silicon Mac, using
 This guide is unofficial. It contains no OpenOSV code, only plain-English steps.
 All credit for the plug-in goes to its author.
 
-## Status (be honest about what's verified)
 
 | Step | Status |
 |---|---|
